@@ -9,7 +9,7 @@ Businesses often lack clear visibility into which customer segments drive bike s
 ## Objective
 To analyse bike sales data to identify high-value customer segments and key drivers of purchase behaviour, supporting data-driven marketing and sales decisions.
 
-## Tools & Techniques
+## Tools & Techniques 
 - Microsoft Excel  
 - Power Query (data cleaning and transformation)  
 - Pivot Tables  
