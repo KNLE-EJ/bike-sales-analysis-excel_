@@ -37,9 +37,9 @@ Data cleaning was performed using Power Query to ensure consistency and accuracy
 - Use customer segmentation to optimise marketing spend  
 
 ## Dashboard
-<img width="865" height="509" alt="image" src="https://github.com/user-attachments/assets/7fd466e8-e5fb-4bd6-929c-5461128c9279" />
+<img width="652" height="484" alt="bike_sales_dashboard" src="https://github.com/user-attachments/assets/f9231190-e3ce-43fe-9805-cc5da4ddb463" />
 
 
 ## Files
-- Excel Analysis File: [Project_Bike Sales_Excel.xlsx](https://github.com/user-attachments/files/24422264/Project_Bike.Sales_Excel.xlsx)
+- Excel Analysis File: [Project_Bike Sales_Excel.xlsx](https://github.com/user-attachments/files/24460932/Project_Bike.Sales_Excel.xlsx)
 
