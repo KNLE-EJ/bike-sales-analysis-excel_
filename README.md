@@ -1,5 +1,8 @@
 # Bike Sales Analysis: Customer Segmentation & Purchase Drivers
 
+Excel Analysis File: Project_Bike Sales_Excel.xlsx
+Github: bike-sales-analysis-excel_
+
 ## Overview
 This project analyses historical bike sales data to identify high-value customer segments and key factors influencing bike purchase behaviour. The goal is to transform raw data into actionable business insights.
 
